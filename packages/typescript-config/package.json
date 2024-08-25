@@ -1,0 +1,9 @@
+{
+  "name": "@topology/typescript-config",
+  "private": true,
+  "version": "1.0.0",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
